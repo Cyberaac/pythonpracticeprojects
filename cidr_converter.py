@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#This is a subnet to CIDR converter.
+#This is a subnet to CIDR converter, compatible with both python 2 and 3.
 #Syntax: ./cidr_converter.py -s <subnet>
 
 import optparse
